@@ -16,8 +16,8 @@ Loan approval is an important process for banks and financial institutions. Eval
 
 This project uses Machine Learning to classify loan applications into categories such as:
 
-* ✅ Loan Approved
-* ❌ Loan Rejected
+- ✅ Loan Approved
+- ❌ Loan Rejected
 
 The prediction is based on different features available in the dataset.
 
@@ -37,12 +37,12 @@ The model learns from previously labeled loan application data and predicts the 
 
 ## 🛠️ Technologies Used
 
-* Python 🐍
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
+- Python 🐍
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
 ---
 
@@ -59,5 +59,6 @@ The model learns from previously labeled loan application data and predicts the 
 9. Model Evaluation
 10. Loan Prediction
 
+# Teacher
 
-
+Shradha Khapra
